@@ -1,0 +1,22 @@
+{
+  "name": "employees.js",
+  "version": "1.0.2",
+  "description": "employees and salaries",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedKvz/proctorio.git"
+  },
+  "keywords": [
+    "employees"
+  ],
+  "author": "ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedKvz/proctorio/issues"
+  },
+  "homepage": "https://github.com/AhmedKvz/proctorio#readme"
+}
