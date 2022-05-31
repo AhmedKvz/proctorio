@@ -35,6 +35,7 @@
 7. index.html file for testing import type:module
 
 **Solve or simplify**
+I am very pleased with the solution, bravo me :)
 
 # package test locally solved with npm link and another test script
 
