@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AhmedKvz/proctorio/issues"
   },
-  "homepage": "https://github.com/AhmedKvz/proctorio#readme"
+  "homepage": "https://github.com/AhmedKvz/proctorio#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
 }
